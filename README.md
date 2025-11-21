@@ -2,7 +2,7 @@
 
 Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 
-<a href="https://nivion-hub.github.io/Personal-Portfolio/" target="_blank">**Visit Now** 🚀</a>
+<a href="https://nivion-hub.github.io/Personal_Portfolio/" target="_blank">**Visit Now** 🚀</a>
 
 ## 📌 Tech Stack
 
